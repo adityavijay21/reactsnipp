@@ -89,16 +89,16 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kiriotheo&show_icons=true&theme=radical)" />
 
 </details>
 
 [website]: https://adityavijay.xyz
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/kiriotheo
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/c/MusicDevotedTM
 [instagram]: https://instagram.com/kiriotheo
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/adityavijay21
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
