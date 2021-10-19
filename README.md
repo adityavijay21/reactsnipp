@@ -93,7 +93,7 @@
 
 </details>
 
-[website]: https://adityavijay.xyz
+[website]: https://instgram.com/techbyaditya
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/kiriotheo
 [youtube]: https://www.youtube.com/c/MusicDevotedTM
