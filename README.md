@@ -2,11 +2,11 @@
 
 ## I'm a Student ,Developer, UI/UX Developer, Self-employed Programmer!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 learned Programming From [Apna College][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: i make static website more faster than you cook maggie.
 
 ### Connect with me:
 
@@ -61,7 +61,7 @@
 </details>
 
 [website]: https://instgram.com/techbyaditya
-[course]: http://vsCodeHero.com
+[course]: https://github.com/apnacollege
 [twitter]: https://twitter.com/kiriotheo
 [youtube]: https://www.youtube.com/c/MusicDevotedTM
 [instagram]: https://instagram.com/kiriotheo
