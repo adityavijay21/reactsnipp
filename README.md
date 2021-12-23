@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=adityanjr" alt="adityanjr"/>
+<img src="https://komarev.com/ghpvc/?username=adityanjr" alt="Aditya Vijay"/>
 
 ```
 npx aditya_vijay #npm-card
@@ -47,7 +47,7 @@ const user = {
 <b>Nationality:</b> Indian
 </li>
 <li>
-<b>Loves:</b> coding and gaming -///-
+<b>Loves:</b> coding and gaming
 </li>
 <li>
 <b>Gender:</b> he/him/Male
@@ -66,7 +66,7 @@ const user = {
 <!-- Contact  -->
   <p align="center">
   <a href="mailto:kiriotheo@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/adityavijay2145/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aditya-vijay-2103/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/kiriotheo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
