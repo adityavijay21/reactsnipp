@@ -7,15 +7,17 @@ npx aditya_vijay #npm-card
 ```js
 const user = {
   name: "Aditya Vijay",
+  age: "little more than the age of earth",
   theme: [ "one dark", "github dark" ],
+  state: "oblivion",
   
   line_endings: "crlf",
   codeStyle: "Prettier",
   variables: "camelCase",
   trailing_comma: true,
     
-  hobbies: [ "programming", "chess", "gaming", "gaining knowledge", ],
-  languages: [ "C", "Python", "JavaScript", "Solidity", "Dart" ],
+  hobbies: [ "programming", "chess", "gaming", "breathing", "hiding dead bodies", ],
+  languages: [ "C", "HTML", "JavaScript", "CSS", "flutter", "Java",],
   editors: [ "Android Studio", "VS Code", "Sublime" ],
   
   newLanguage: function () {
@@ -44,16 +46,16 @@ const user = {
 <li>
 <b>Name:</b> Aditya | Vijay</li>
 <li>
-<b>Nationality:</b> Indian
+<b>Nationality:</b> Indian 
 </li>
 <li>
-<b>Loves:</b> coding and gaming
+<b>Loves:</b> Video & Photo Editing, Graphic Designing 
 </li>
 <li>
 <b>Gender:</b> he/him/Male
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphics Design, Chess
+<b>Hobbys:</b> Breathing , Hiding Dead Bodies, Programming, Playing Dino Game On Chrome.
 </li>
 <li>
 <b>Working @:</b> Dustland Developer
