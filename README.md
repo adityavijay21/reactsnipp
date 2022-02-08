@@ -63,6 +63,9 @@ const user = {
 <li>
 <b>Mail:</b> kiriotheo@gmail.com
 </li>
+<li>
+<b>“In C we had to code our own bugs. In C++ we can inherit them.”
+</li>
 <br>
 &nbsp;
 <!-- Contact  -->
