@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=adityanjr" alt="Aditya Vijay"/>
 
 ```
-sudo apt showing-Aditya-Vijay card
+sudo dnf showing-Aditya-Vijay card
 ```
 
 ```js
