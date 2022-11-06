@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=adityanjr" alt="Aditya Vijay"/>
+<img src="https://komarev.com/ghpvc/?username=kiriotheo" alt="Aditya Vijay"/>
 
 ```
 sudo dnf showing-Aditya-Vijay card
