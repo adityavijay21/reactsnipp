@@ -36,8 +36,6 @@
   </a>
 </p>
 
-<!-- holopin board -->
-[![@kiriotheo's Holopin board](https://holopin.me/kiriotheo)](https://holopin.io/@kiriotheo)
 
 <!-- Contribution -->
 
