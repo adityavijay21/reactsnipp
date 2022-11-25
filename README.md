@@ -26,5 +26,3 @@
 <li>
 <b>“In C we had to code our own bugs. In C++ we can inherit them.”
 </li>
-<br>
-&nbsp;
