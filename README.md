@@ -10,7 +10,7 @@
 <b>Loves:</b> Making Calls. 
 </li>
 <li>
-<b>Gender:</b> he/him/Male
+<b>Pronouns :</b> He/Him
 </li>
 <li>
 <b>Hobbys:</b> procrastinating, Hiding Dead Bodies.
