@@ -1,24 +1,22 @@
 <!-- About ME  -->
-<h2>About Me </h2>
+<h2>About Kiriotheo! </h2>
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <li>
-<b>Name:</b> Aditya | Vijay</li>
-<li>
 <b>Nationality:</b> Indian 
 </li>
 <li>
-<b>Loves:</b> Video & Photo Editing, Graphic Designing 
+<b>Loves:</b> Making Calls. 
 </li>
 <li>
 <b>Gender:</b> he/him/Male
 </li>
 <li>
-<b>Hobbys:</b> Breathing , Hiding Dead Bodies, Programming, Playing Dino Game On Chrome.
+<b>Hobbys:</b> procrastinating, Hiding Dead Bodies.
 </li>
 <li>
-<b>Working @:</b> Dustland Developer
+<b>Working On:</b> Mental Health
 </li>
 <li>
 <b>Mail:</b> kiriotheo@gmail.com
