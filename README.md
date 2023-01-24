@@ -7,7 +7,7 @@
 <b>Nationality:</b> Indian 
 </li>
 <li>
-<b>Loves:</b> Making Calls. 
+<b>Loves:</b> Open Source. 
 </li>
 <li>
 <b>Pronouns :</b> He/Him
