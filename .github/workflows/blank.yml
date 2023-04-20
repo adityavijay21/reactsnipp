@@ -1,0 +1,4 @@
+- name: Autopopulate your contribution graph
+  # You may pin to the exact commit or the version.
+  # uses: bcanseco/github-contribution-graph-action@74527e76090be2a3ff099216fcbbc46a8931497c
+  uses: bcanseco/github-contribution-graph-action@2.0.2
