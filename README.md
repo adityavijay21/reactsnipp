@@ -10,9 +10,6 @@
 <b>Loves:</b> Open Source. 
 </li>
 <li>
-<b>Pronouns :</b> He/Him
-</li>
-<li>
 <b>Hobbys:</b> procrastinating, Hiding Dead Bodies.
 </li>
 <li>
