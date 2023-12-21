@@ -4,4 +4,4 @@
 
 - **Currently Working On:** Mental Health
 - **Hobbies:** Procrastinating, Hiding Dead Bodies
-- **Loves:** Open Source, RHELL9 and to add trash on github
+- **Loves:** Open Source, RHELL9 and to add trash on Github
