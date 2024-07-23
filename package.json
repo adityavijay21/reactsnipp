@@ -1,0 +1,62 @@
+{
+    "name": "ReactSnipp",
+    "displayName": "React Snipp ~ Snippets you need.",
+    "description": "Supercharge your React development with essential code snippets and utilities for a faster, smoother workflow.",
+    "version": "0.0.3",
+    "icon": "images/logo.png",
+    "publisher": "adityavijay21",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+        "react-native",
+        "javascript",
+        "typescript",
+        "snippets",
+        "react-navigation",
+        "redux",
+        "async-storage",
+        "mobile-development",
+        "frontend",
+        "ui"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    },
+    "devDependencies": {
+        "json-concat": "^0.0.2"
+    },
+    "scripts": {
+        "concat": "json-concat snippets/types/ snippets/snippets.code-snippets"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adityavijay21/reactsnipp.git"
+    },
+    "bugs": {
+        "url": "https://github.com/adityavijay21/reactsnipp.git"
+    },
+    "homepage": "https://github.com/adityavijay21/reactsnipp#readme",
+    "license": "MIT"
+  }
+  

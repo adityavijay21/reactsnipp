@@ -1,0 +1,249 @@
+{
+  "Import React": {
+    "prefix": "imr",
+    "body": "import React from 'react';"
+  },
+  "Import React / Component": {
+    "prefix": "imrc",
+    "body": "import React, { Component } from 'react';"
+  },
+  "Import ReactDOM": {
+    "prefix": "imrd",
+    "body": "import ReactDOM from 'react-dom';"
+  },
+  "Import React / useState": {
+    "prefix": "imrs",
+    "body": "import React, { useState } from 'react';"
+  },
+  "Import React / useState useEffect": {
+    "prefix": "imrse",
+    "body": "import React, { useState, useEffect } from 'react';"
+  },
+  "Import PropTypes": {
+    "prefix": "impt",
+    "body": "import PropTypes from 'prop-types';"
+  },
+  "Import React / PureComponent": {
+    "prefix": "impc",
+    "body": "import React, { PureComponent } from 'react';"
+  },
+  "Class Component": {
+    "prefix": "cc",
+    "body": [
+      "class ${1:ComponentName} extends Component {",
+      "  render() {",
+      "    return (",
+      "      <div>",
+      "        $0",
+      "      </div>",
+      "    );",
+      "  }",
+      "}",
+      "",
+      "export default ${1:ComponentName};"
+    ]
+  },
+  "Class Component With Constructor": {
+    "prefix": "ccc",
+    "body": [
+      "class ${1:ComponentName} extends Component {",
+      "  constructor(props) {",
+      "    super(props);",
+      "    this.state = {",
+      "      $2",
+      "    };",
+      "  }",
+      "",
+      "  render() {",
+      "    return (",
+      "      <div>",
+      "        $0",
+      "      </div>",
+      "    );",
+      "  }",
+      "}",
+      "",
+      "export default ${1:ComponentName};"
+    ]
+  },
+  "Class Pure Component": {
+    "prefix": "cpc",
+    "body": [
+      "class ${1:ComponentName} extends PureComponent {",
+      "  render() {",
+      "    return (",
+      "      <div>",
+      "        $0",
+      "      </div>",
+      "    );",
+      "  }",
+      "}",
+      "",
+      "export default ${1:ComponentName};"
+    ]
+  },
+  "Function Component": {
+    "prefix": "ffc",
+    "body": [
+      "import React from 'react';",
+      "",
+      "function ${1:ComponentName}() {",
+      "  return (",
+      "    <div>",
+      "      $0",
+      "    </div>",
+      "  );",
+      "}",
+      "",
+      "export default ${1:ComponentName};"
+    ]
+  },
+  "Arrow Function Component": {
+    "prefix": "afc",
+    "body": [
+      "import React from 'react';",
+      "",
+      "const ${1:ComponentName} = () => {",
+      "  return (",
+      "    <div>",
+      "      $0",
+      "    </div>",
+      "  );",
+      "};",
+      "",
+      "export default ${1:ComponentName};"
+    ]
+  },
+  "useEffect Hook": {
+    "prefix": "uef",
+    "body": [
+      "useEffect(() => {",
+      "  $1",
+      "  return () => {",
+      "    $0",
+      "  };",
+      "}, []);"
+    ]
+  },
+  "useCallback Hook": {
+    "prefix": "ucb",
+    "body": [
+      "const ${1:memoizedCallback} = useCallback(() => {",
+      "  $2",
+      "}, [$0]);"
+    ]
+  },
+  "useMemo Hook": {
+    "prefix": "ume",
+    "body": [
+      "const ${1:memoizedValue} = useMemo(() => {",
+      "  return $2;",
+      "}, [$0]);"
+    ]
+  },
+  "getDerivedStateFromProps": {
+    "prefix": "gds",
+    "body": [
+      "static getDerivedStateFromProps(nextProps, prevState) {",
+      "  $0",
+      "  return null;",
+      "}"
+    ]
+  },
+  "shouldComponentUpdate": {
+    "prefix": "scu",
+    "body": [
+      "shouldComponentUpdate(nextProps, nextState) {",
+      "  $0",
+      "  return true;",
+      "}"
+    ]
+  },
+  "componentDidUpdate": {
+    "prefix": "cdu",
+    "body": [
+      "componentDidUpdate(prevProps, prevState) {",
+      "  $0",
+      "}"
+    ]
+  },
+  "componentWillUnmount": {
+    "prefix": "cwun",
+    "body": [
+      "componentWillUnmount() {",
+      "  $0",
+      "}"
+    ]
+  },
+  "componentDidCatch": {
+    "prefix": "cdc",
+    "body": [
+      "componentDidCatch(error, info) {",
+      "  $0",
+      "}"
+    ]
+  },
+  "getSnapshotBeforeUpdate": {
+    "prefix": "gsbu",
+    "body": [
+      "getSnapshotBeforeUpdate(prevProps, prevState) {",
+      "  $0",
+      "  return null;",
+      "}"
+    ]
+  },
+  "setState": {
+    "prefix": "ss",
+    "body": [
+      "this.setState((prevState, props) => ({",
+      "  $0",
+      "}));"
+    ]
+  },
+  "Declare a new state variable using State Hook": {
+    "prefix": "usf",
+    "body": [
+      "const [${1:state}, set${1/(.*)/${1:/capitalize}/}] = useState($2);"
+    ]
+  },
+  "Render Prop": {
+    "prefix": "rprop",
+    "body": [
+      "${1:renderProp}={({ ${2:prop} }) => (",
+      "  $0",
+      ")}"
+    ]
+  },
+  "Higher Order Component": {
+    "prefix": "hoc",
+    "body": [
+      "import React from 'react';",
+      "",
+      "const ${1:withSomething} = (WrappedComponent) => {",
+      "  return class extends React.Component {",
+      "    render() {",
+      "      return <WrappedComponent {...this.props} $0 />;",
+      "    }",
+      "  };",
+      "};",
+      "",
+      "export default ${1:withSomething};"
+    ]
+  },
+  "Context Provider": {
+    "prefix": "cp",
+    "body": [
+      "<${1:Context}.Provider value={${2:value}}>",
+      "  ${0}",
+      "</${1:Context}.Provider>"
+    ]
+  },
+  "Class Property Function": {
+    "prefix": "cpf",
+    "body": [
+      "${1:propertyName} = (${2:params}) => {",
+      "  $0",
+      "};"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# our tests
+test/
+.test/
+
+# coffeescript files
+src/
+
+# misc
+Gruntfile.coffee
+.travis.yml
+.gitignore
